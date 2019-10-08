@@ -1,0 +1,17 @@
+;;;==============
+;;;  JazzScheme
+;;;==============
+;;;
+;;;; Zone
+;;;
+
+
+(data jazz
+
+
+(version 1 4)
+(import world.data)
+
+
+(form
+  (<Zone> start-grid?: #f start-skybox: "earth" start-mode: first-person start-distance: 8.296296296296296 first-time?: #f seed: 3411641747678714243)))
